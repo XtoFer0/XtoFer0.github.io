@@ -1,0 +1,14 @@
+{
+  "name": "dibujemos",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "*",
+    "express": "3.5.1",
+    "socket.io": "^0.9.17",
+    "stylus": "*"
+  }
+}
